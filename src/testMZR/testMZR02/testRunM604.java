@@ -1,9 +1,9 @@
-package testMZR.testMZR02;
+ï»¿package testMZR.testMZR02;
 
 public class testRunM604 {
 
 	public static void main(String[] args) {
-		System.out.println("¹ş¹ş¹ş......ÎÒµÄµÚÒ»´Î£¡44444444");
+		System.out.println("å“ˆå“ˆå“ˆ......æˆ‘çš„ç¬¬ä¸€æ¬¡ï¼44444444");
 
 	}
 
